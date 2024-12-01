@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import random
 
 # Токен вашего бота
-BOT_TOKEN = "ВАШ_ТОКЕН"
+BOT_TOKEN = "7829278088:AAFAhcVIJBSmmc_DLNV7Venx1wpPh4wcQDM"
 
 # Инициализация бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
